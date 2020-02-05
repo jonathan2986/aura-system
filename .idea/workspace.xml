@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d7f2a50-9380-456c-8dcf-c0c01f5ea77b" name="Default Changelist" comment="" />
+    <list default="true" id="4d7f2a50-9380-456c-8dcf-c0c01f5ea77b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/CobradoresController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middlewares/autenticacion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Cobrador.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/cobrador.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/secret.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/token.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -35,7 +50,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -68,10 +89,51 @@
       <option name="presentableId" value="Default" />
       <updated>1580786321604</updated>
       <workItem from="1580786323368" duration="8909000" />
+      <workItem from="1580826062109" duration="29891000" />
+      <workItem from="1580865402207" duration="12137000" />
+      <workItem from="1580879116350" duration="1119000" />
+      <workItem from="1580880349599" duration="916000" />
+      <workItem from="1580881413547" duration="4632000" />
+      <workItem from="1580908408746" duration="10909000" />
+      <workItem from="1580920479986" duration="902000" />
+      <workItem from="1580921409617" duration="970000" />
+      <workItem from="1580922499553" duration="1975000" />
+      <workItem from="1580924521778" duration="2096000" />
+      <workItem from="1580926644978" duration="2449000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="131" width="816" height="550" key="#Deployment" timestamp="1580928408627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="253" y="131" width="816" height="550" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1580928408627" />
+    <state x="275" y="23" key="#Options" timestamp="1580922521255">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Options/0.0.1366.728@0.0.1366.728" timestamp="1580922521255" />
+    <state x="560" y="138" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580855321530">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="560" y="138" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580855321530" />
+    <state x="534" y="3" key="RollbackChangesDialog" timestamp="1580843234122">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="3" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1580843234122" />
+    <state x="547" y="261" key="WebDeployment.AddServerDialog.v.1" timestamp="1580923256148">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="547" y="261" key="WebDeployment.AddServerDialog.v.1/0.0.1366.728@0.0.1366.728" timestamp="1580923256148" />
+    <state x="567" y="271" key="publish.login" timestamp="1580927124344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="567" y="271" key="publish.login/0.0.1366.728@0.0.1366.728" timestamp="1580927124344" />
+    <state x="876" y="175" key="run.anything.popup" timestamp="1580879605438">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="876" y="175" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1580879605438" />
   </component>
 </project>
